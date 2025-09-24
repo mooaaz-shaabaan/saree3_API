@@ -5,7 +5,9 @@
     "description": "Velvet Cream",
     "price": 85.0,
     "imageProdact": "https://firebasestorage.googleapis.com/v0/b/saree3-6a6dc.firebasestorage.app/o/Blbn%2Fboba.jpg?alt=media&token=19888b87-9025-4938-8662-d248cfeea441",
-    "imageResturant" : "https://firebasestorage.googleapis.com/v0/b/saree3-6a6dc.firebasestorage.app/o/Restaurants%20Logo%2Fblbn_logo.jpg?alt=media&token=26f1d65d-5e44-49f7-aa59-869c438e1aac"
+    "imageResturant" : "https://firebasestorage.googleapis.com/v0/b/saree3-6a6dc.firebasestorage.app/o/Restaurants%20Logo%2Fblbn_logo.jpg?alt=media&token=26f1d65d-5e44-49f7-aa59-869c438e1aac",
+    "restaurantName": "ب لبن",
+    "restaurantNameDefault": "Blbn"
   },
   {
     "id": 5,
@@ -13,7 +15,9 @@
     "description": "Fudge Layer",
     "price": 80.0,
     "imageProdact": "https://firebasestorage.googleapis.com/v0/b/saree3-6a6dc.firebasestorage.app/o/Blbn%2Fshokleta.png?alt=media&token=ac37295f-17ff-4958-8273-4f98dae93d2c",
-    "imageResturant" : "https://firebasestorage.googleapis.com/v0/b/saree3-6a6dc.firebasestorage.app/o/Restaurants%20Logo%2Fblbn_logo.jpg?alt=media&token=26f1d65d-5e44-49f7-aa59-869c438e1aac"
+    "imageResturant" : "https://firebasestorage.googleapis.com/v0/b/saree3-6a6dc.firebasestorage.app/o/Restaurants%20Logo%2Fblbn_logo.jpg?alt=media&token=26f1d65d-5e44-49f7-aa59-869c438e1aac",
+    "restaurantName": "ب لبن",     
+    "restaurantNameDefault": "Blbn"
   },
   {
     "id": 6,
@@ -21,6 +25,8 @@
     "description": "Milky Rice",
     "price": 25.0,
     "imageProdact": "https://firebasestorage.googleapis.com/v0/b/saree3-6a6dc.firebasestorage.app/o/Blbn%2FbrgrDopi.jpg?alt=media&token=25b9b8f7-2195-4ba5-8750-3084f3b5f6e4",
-    "imageResturant" : "https://firebasestorage.googleapis.com/v0/b/saree3-6a6dc.firebasestorage.app/o/Restaurants%20Logo%2Fblbn_logo.jpg?alt=media&token=26f1d65d-5e44-49f7-aa59-869c438e1aac"
+    "imageResturant" : "https://firebasestorage.googleapis.com/v0/b/saree3-6a6dc.firebasestorage.app/o/Restaurants%20Logo%2Fblbn_logo.jpg?alt=media&token=26f1d65d-5e44-49f7-aa59-869c438e1aac",
+    "restaurantName": "ب لبن",     
+    "restaurantNameDefault": "Blbn"
   }
 ]
