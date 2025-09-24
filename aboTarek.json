@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Small Box",
+    "description": "Spicy Sauce",
+    "price": 35.0,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/saree3-6a6dc.firebasestorage.app/o/Abo%20Tarek%2Fso8er.jpg?alt=media&token=7a573937-845a-4661-a165-d9138f001e8f"
+  },
+  {
+    "id": 2,
+    "name": "Medium Box",
+    "description": "Rice Mix",
+    "price": 40.0,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/saree3-6a6dc.firebasestorage.app/o/Abo%20Tarek%2Fwast.jpg?alt=media&token=363bbb43-a2a3-48af-9ad1-d789be01abff"
+  },
+  {
+    "id": 3,
+    "name": "Special Box",
+    "description": "Flavor Pack",
+    "price": 50.0,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/saree3-6a6dc.firebasestorage.app/o/Abo%20Tarek%2Fma5sos.jpg?alt=media&token=da320340-bee7-483a-9600-b166b384594b"
+  }
+]
