@@ -6,8 +6,8 @@
     "price": 135.0,
     "imageProdact": "https://firebasestorage.googleapis.com/v0/b/saree3-6a6dc.firebasestorage.app/o/Karm%20ElSham%2Fdgag.jpg?alt=media&token=447f163d-2313-43ee-8732-0f282d91c5ca",
     "imageResturant" : "https://firebasestorage.googleapis.com/v0/b/saree3-6a6dc.firebasestorage.app/o/Restaurants%20Logo%2FkarmElSham_logo.png?alt=media&token=11fc9ab6-985e-411e-8dc4-9e3d414c0568",
-    "restaurantName": "كرم الشام",
-    "restaurantNameDefault": "Karam el-sham"
+    "restaurantName": "Karam el-sham",
+    "restaurantNameDefault": "Karam El-sham"
   },
   {
     "id": 8,
@@ -16,8 +16,8 @@
     "price": 165.0,
     "imageProdact": "https://firebasestorage.googleapis.com/v0/b/saree3-6a6dc.firebasestorage.app/o/Karm%20ElSham%2Ffrnsawy.jpg?alt=media&token=adaaa10b-5bfe-40de-a826-ffeb5bb7abf4",
     "imageResturant" : "https://firebasestorage.googleapis.com/v0/b/saree3-6a6dc.firebasestorage.app/o/Restaurants%20Logo%2FkarmElSham_logo.png?alt=media&token=11fc9ab6-985e-411e-8dc4-9e3d414c0568",
-    "restaurantName": "كرم الشام",
-    "restaurantNameDefault": "Karam el-sham"
+    "restaurantName": "Karam el-sham",
+    "restaurantNameDefault": "Karam El-sham"
   },
   {
     "id": 9,
@@ -26,7 +26,7 @@
     "price": 250.0,
     "imageProdact": "https://firebasestorage.googleapis.com/v0/b/saree3-6a6dc.firebasestorage.app/o/Karm%20ElSham%2Fmix.jpg?alt=media&token=466827f2-4507-4649-bdd8-8896b74119b4",
     "imageResturant" : "https://firebasestorage.googleapis.com/v0/b/saree3-6a6dc.firebasestorage.app/o/Restaurants%20Logo%2FkarmElSham_logo.png?alt=media&token=11fc9ab6-985e-411e-8dc4-9e3d414c0568",
-    "restaurantName": "كرم الشام",
-    "restaurantNameDefault": "Karam el-sham"
+    "restaurantName": "Karam el-sham",
+    "restaurantNameDefault": "Karam El-sham"
   }
 ]
